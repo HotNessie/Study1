@@ -21,6 +21,7 @@ class YourScore {
 
 	// -------------constructor
 	YourScore() {
+		this("이름", 100, 100, 100);
 	};
 
 	YourScore(String 이름, int 국어, int 영어, int 수학) {
