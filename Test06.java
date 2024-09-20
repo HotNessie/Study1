@@ -25,6 +25,7 @@ class YourScore {
 	};
 
 	YourScore(String 이름, int 국어, int 영어, int 수학) {
+		super();
 		this.이름 = 이름;
 		this.국어 = 국어;
 		this.영어 = 영어;
